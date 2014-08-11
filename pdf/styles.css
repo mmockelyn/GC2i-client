@@ -1,0 +1,30 @@
+#inter_info{font-family: Arial; width:750px;}
+#inter_info .societe{text-align: center;width:750px;border:solid 2px;}
+#inter_info .left{float:left;}
+#inter_info .right{position:relative;top:-185px;left:450px;}
+
+#corps{margin-top:15px;}
+
+#inter_info .prestation_realise{width:48%; }
+#inter_info .prestation_realise .titre{background:#CFCFCF;text-align: center; font-weight: bold; height:20px; vertical-align: middle;}
+#inter_info .prestation_realise .box{border:solid 1px; height:250px;}
+
+#inter_info .inter_materiel{width:48%; position:relative; top:-272px; left:373px;}
+#inter_info .inter_materiel .titre{background: #CFCFCF; text-align: center; font-weight: bold; height:20px; vertical-align: middle;}
+#inter_info .inter_materiel .box{border:solid 1px; height:250px;}	
+
+#inter_info .materiel_fournis{width:48%; position: relative; top:5px;}
+#inter_info .materiel_fournis .titre{background: #CFCFCF; text-align: center; font-weight: bold; height:20px; vertical-align: middle;}
+#inter_info .materiel_fournis .box{border: solid 1px; height: 250px;}
+
+#inter_info .autre{width:48%; position: relative; top:-272px; left:373px;}
+#inter_info .autre .titre{background: #CFCFCF; text-align: center; font-weight: bold;height: 20px; vertical-align: center;}
+#inter_info .autre .box{border: solid 1px; height:250px;}
+
+#inter_info .signature_client{width:48%; position: relative; top:5px;}
+#inter_info .signature_client .titre{background: #CFCFCF; text-align: center;font-weight: bold; height: 20px; vertical-align: middle;}
+#inter_info .signature_client .box{border: solid 1px; height:100px;}
+
+#inter_info .signature_technique{width:48%; position: relative; top:-125px; left:373px;}
+#inter_info .signature_technique .titre{background: #CFCFCF; text-align: center; font-weight: bold; height: 20px; vertical-align: middle;}
+#inter_info .signature_technique .box{border: solid 1px; height:100px;}
