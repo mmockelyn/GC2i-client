@@ -9,9 +9,9 @@
 				</a>
 			</li>
 			<li>
-				<a href="<?php echo $rootsite; ?>contact.php">
+				<a href="<?php echo $rootsite; ?>/contact.php?iduser=<?php echo $donnees_login['iduser']; ?>">
 					<i class="entypo-bell"></i>
-					<span>Contactez-nous</span>
+					<span>Support Client</span>
 				</a>
 			</li>
 		</ul>
